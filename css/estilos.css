@@ -10,9 +10,13 @@ body
 
 #cabecera
 {
-    background:rgb(7, 188, 10);
+    background:#33A;
     box-shadow:0 2px 20px 0 rgba(0,0,0,.5);
+<<<<<<< HEAD
     color:white;
+=======
+    color: white;
+>>>>>>> footer
     font-weight:bold;
     margin:0;
     padding:0.5em
@@ -49,4 +53,12 @@ h1
 {
     background: white;
     padding:1em
+}
+
+#Footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
